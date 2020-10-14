@@ -1,1 +1,1 @@
-# cohens-kappa-demo
+# Fleiss-kappa-demo
